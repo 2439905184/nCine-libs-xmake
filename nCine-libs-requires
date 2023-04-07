@@ -1,0 +1,5 @@
+sudo cp files to /usr/lib
+1. libGLEW.so.2.2
+2. libwebp.so.7 is libsymbolic link to libwebp.so.7.1.6
+3. liblua5.3.0 is sudo apt install liblua5.3-0
+4. libglfw.so:symbolic link to libglfw.so.3 libglfw.so.3:symbolic link to libglfw.so.3.3

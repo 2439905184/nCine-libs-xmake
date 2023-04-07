@@ -1,0 +1,14 @@
+# requires
+[lua5.3](https://sourceforge.net/projects/luabinaries/files/5.3/Linux%20Libraries/)
+[glew2.2.0]
+[glfw]
+[libpng]
+[zlib]
+[libogg]
+[libvorbis]
+[OpenAL-soft]
+[zlib]
+[libwebp]
+
+# nCineCore
+[libncine.so]
